@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.description {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.description i {
+  font-size: 0.9rem;
+  color: #3b82c4;
+}
